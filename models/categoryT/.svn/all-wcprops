@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/models/categoryT
+END
+CategoryDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/models/categoryT/CategoryDB.java
+END
+CategoryQue.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/models/categoryT/CategoryQue.java
+END
+CategoryOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/models/categoryT/CategoryOp.java
+END

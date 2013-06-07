@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/views/menuBrowser
+END
+MenuItem.fx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/views/menuBrowser/MenuItem.fx
+END
+ForwardB.fx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/views/menuBrowser/ForwardB.fx
+END
+MenuBrowser.fx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/views/menuBrowser/MenuBrowser.fx
+END
+Arrow.fx
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/views/menuBrowser/Arrow.fx
+END
+MenuBrowserItems.fx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/views/menuBrowser/MenuBrowserItems.fx
+END
+CatBar.fx
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/views/menuBrowser/CatBar.fx
+END
+MenuBrowserBar.fx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/views/menuBrowser/MenuBrowserBar.fx
+END
+SearchBox.fx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/views/menuBrowser/SearchBox.fx
+END
+BackB.fx
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/views/menuBrowser/BackB.fx
+END
